@@ -31,6 +31,7 @@ public class MechanicDAOImpl implements  MechanicDAO {
 		entityTransaction.begin();
 		Query q = entityManager.createQuery("FROM Mechanic");
 		List<Mechanic> list=q.getResultList();
+		entityManager.close();
 		return list;
 		
 	}
@@ -45,7 +46,7 @@ public class MechanicDAOImpl implements  MechanicDAO {
 		for(Mechanic m:list) {
 			System.out.println(m.toString());
 		}
-		
+		entityManager.close();
 		return list;
 	}
 
@@ -54,11 +55,10 @@ public class MechanicDAOImpl implements  MechanicDAO {
 	public List<Mechanic> viewFeedback(int mechanicId) {
 		TypedQuery<Mechanic> query=manager.createQuery("select cc.feedback from Feedback cc where cc.mechanic_Id=:mechanicId",Mechanic.class);
 		query.setParameter("mechanicId", mechanicId);
-		List<Mechanic> list=query.getResultList();
-		return list;
+		List<Mechanic> list=query.getResultList();	
+	return list;
 	}
 
-	
 	
 	public boolean login(int id,String pass) {
 //		 System.out.println("Enter mechanic ID");
