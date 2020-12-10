@@ -35,17 +35,17 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="E:/cgproject/OnRoadVehicleBreakdownAssistance/lib/antlr-2.7.6.jar"/>
-	<classpathentry kind="lib" path="E:/cgproject/OnRoadVehicleBreakdownAssistance/lib/commons-collections-3.1.jar"/>
-	<classpathentry kind="lib" path="E:/cgproject/OnRoadVehicleBreakdownAssistance/lib/dom4j-1.6.1.jar"/>
-	<classpathentry kind="lib" path="E:/cgproject/OnRoadVehicleBreakdownAssistance/lib/ehcache-1.2.3.jar"/>
-	<classpathentry kind="lib" path="E:/cgproject/OnRoadVehicleBreakdownAssistance/lib/hibernate3.jar"/>
-	<classpathentry kind="lib" path="E:/cgproject/OnRoadVehicleBreakdownAssistance/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
-	<classpathentry kind="lib" path="E:/cgproject/OnRoadVehicleBreakdownAssistance/lib/javassist-3.9.0.GA.jar"/>
-	<classpathentry kind="lib" path="E:/cgproject/OnRoadVehicleBreakdownAssistance/lib/jta-1.1.jar"/>
-	<classpathentry kind="lib" path="E:/cgproject/OnRoadVehicleBreakdownAssistance/lib/ojdbc14.jar"/>
-	<classpathentry kind="lib" path="E:/cgproject/OnRoadVehicleBreakdownAssistance/lib/postgresql-42.2.18.jar"/>
-	<classpathentry kind="lib" path="E:/cgproject/OnRoadVehicleBreakdownAssistance/lib/slf4j-api-1.5.8.jar"/>
-	<classpathentry kind="lib" path="E:/cgproject/OnRoadVehicleBreakdownAssistance/lib/slf4j-simple-1.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Capgemini/OnRoadVehicleBreakdown/OnRoadVehicleBreakdownAssistance/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/Capgemini/OnRoadVehicleBreakdown/OnRoadVehicleBreakdownAssistance/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Capgemini/OnRoadVehicleBreakdown/OnRoadVehicleBreakdownAssistance/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Capgemini/OnRoadVehicleBreakdown/OnRoadVehicleBreakdownAssistance/lib/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Capgemini/OnRoadVehicleBreakdown/OnRoadVehicleBreakdownAssistance/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/Capgemini/OnRoadVehicleBreakdown/OnRoadVehicleBreakdownAssistance/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Capgemini/OnRoadVehicleBreakdown/OnRoadVehicleBreakdownAssistance/lib/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/Capgemini/OnRoadVehicleBreakdown/OnRoadVehicleBreakdownAssistance/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Capgemini/OnRoadVehicleBreakdown/OnRoadVehicleBreakdownAssistance/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="E:/Capgemini/OnRoadVehicleBreakdown/OnRoadVehicleBreakdownAssistance/lib/postgresql-42.2.18.jar"/>
+	<classpathentry kind="lib" path="E:/Capgemini/OnRoadVehicleBreakdown/OnRoadVehicleBreakdownAssistance/lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="E:/Capgemini/OnRoadVehicleBreakdown/OnRoadVehicleBreakdownAssistance/lib/slf4j-simple-1.5.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
